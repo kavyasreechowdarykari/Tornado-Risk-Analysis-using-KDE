@@ -18,7 +18,7 @@ This project addresses that limitation by:
 
 - Source: NOAA (National Oceanic and Atmospheric Administration)
 - Time Period: 2015 – 2025
-- Records: ~16,000 (cleaned to ~14,800)
+- Records: 16,462 (cleaned to 14,824)
 - Attributes:
   - Date
   - Latitude & Longitude
