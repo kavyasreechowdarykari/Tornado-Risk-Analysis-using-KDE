@@ -1,0 +1,18 @@
+# Core Dashboard Framework
+streamlit
+
+# Data Processing
+pandas
+numpy
+
+# Geospatial Analysis
+geopandas
+shapely
+pyproj
+fiona
+
+# Visualization
+matplotlib
+
+# Machine Learning (KDE)
+scikit-learn
