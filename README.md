@@ -2,7 +2,6 @@
 
 This project presents a geospatial analysis of tornado risk using historical data and Kernel Density Estimation (KDE). It transforms discrete tornado events into a continuous risk surface and provides an interactive dashboard for visualization and exploration.
 
----
 
 ## Project Overview
 
@@ -14,7 +13,6 @@ This project addresses that limitation by:
 - Generating continuous tornado risk maps
 - Building an interactive dashboard using Streamlit
 
----
 
 ## Dataset
 
@@ -27,7 +25,6 @@ This project addresses that limitation by:
   - State
   - Tornado Intensity (EF Scale)
 
----
 
 ##  Methodology
 
@@ -53,7 +50,6 @@ This project addresses that limitation by:
    - Generated heatmaps representing tornado risk
    - Displayed tornado points and state boundaries
 
----
 
 ##  Interactive Dashboard (Streamlit)
 
@@ -66,10 +62,6 @@ The dashboard allows users to:
 - Generate real-time tornado risk maps
 - Download generated maps
 
----
-
-
----
 
 ##  How to Run the Project
 
