@@ -63,9 +63,3 @@ The dashboard allows users to:
 - Download generated maps
 
 
-##  How to Run the Project
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/YOUR-USERNAME/tornado-risk-analysis-kde.git
-cd tornado-risk-analysis-kde
