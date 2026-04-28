@@ -13,7 +13,7 @@ st.title("USA Tornado Risk Assessment Dashboard")
 @st.cache_data
 def load_data():
     gdf = gpd.read_file(
-        "/Users/kavyasreechowdary/Downloads/MS project/tornado_projected_2015_2025.geojson"
+        "tornado_projected_2015_2025.geojson"
     )
     gdf["x"] = gdf.geometry.x
     gdf["y"] = gdf.geometry.y
