@@ -85,8 +85,8 @@ Steps followed:
 - Created a Dockerfile to containerize the application
 - Built and ran the Docker container
 - Accessed the app via public IP
-Access URL:
-http://<EC2-PUBLIC-IP>:8501
+- Access URL:
+  http://<EC2_Public_IP>:8501
 
 
 ## To run locally 
