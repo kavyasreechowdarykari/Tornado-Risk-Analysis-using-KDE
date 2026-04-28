@@ -62,4 +62,39 @@ The dashboard allows users to:
 - Generate real-time tornado risk maps
 - Download generated maps
 
+### Tech Stack
+   Python
+   Streamlit
+   Pandas, NumPy
+   GeoPandas (for geospatial processing)
+   Scikit-learn (KDE)
+   Matplotlib
 
+##  Deployment
+
+The application was deployed using:
+
+AWS EC2 for hosting
+Docker for containerization
+
+Steps followed:
+
+1.Launched an EC2 instance (Amazon Linux)
+2.Configured security groups (opened port 8501 for Streamlit)
+3.Installed Docker on EC2
+4.Created a Dockerfile to containerize the application
+5.Built and ran the Docker container
+6.Accessed the app via public IP
+Access URL:
+http://<EC2-PUBLIC-IP>:8501
+
+
+## To run locally 
+Clone the repository
+Run the dashboard :
+streamlit run dashboard.py
+
+
+## Conclusion
+
+This project demonstrates how geospatial analysis and machine learning techniques like KDE can be used to model and visualize natural disaster risk, enabling better understanding and exploration of tornado patterns.
