@@ -90,9 +90,9 @@ http://<EC2-PUBLIC-IP>:8501
 
 
 ## To run locally 
-Clone the repository
-Run the dashboard :
-streamlit run dashboard.py
+- Clone the repository
+- Run the dashboard :
+   streamlit run dashboard.py
 
 
 ## Conclusion
