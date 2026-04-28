@@ -79,12 +79,12 @@ Docker for containerization
 
 Steps followed:
 
-1.Launched an EC2 instance (Amazon Linux)
-2.Configured security groups (opened port 8501 for Streamlit)
-3.Installed Docker on EC2
-4.Created a Dockerfile to containerize the application
-5.Built and ran the Docker container
-6.Accessed the app via public IP
+- Launched an EC2 instance (Amazon Linux)
+- Configured security groups (opened port 8501 for Streamlit)
+- Installed Docker on EC2
+- Created a Dockerfile to containerize the application
+- Built and ran the Docker container
+- Accessed the app via public IP
 Access URL:
 http://<EC2-PUBLIC-IP>:8501
 
